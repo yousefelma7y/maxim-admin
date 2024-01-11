@@ -1,0 +1,119 @@
+.admin-page{
+    /* background-color:  #F4C95D;  */
+    background-color:  #dd7230f4; 
+    color: white;
+    min-height: 100vh;
+    direction: rtl;
+    /* background-color:  #854D27; */
+}
+.admin-logo{
+    background-color:  #854D27;
+    border-radius: 30px;
+   
+}
+.show-form-btn{
+    background-color: #854D27;
+    border: 0px;
+    border-radius: 30px;
+    color: white;
+    font-weight: bold;
+}
+.show-form-btn:hover{
+    background-color: #854d27da;
+}
+.cansle-btn{
+    background-color: rgb(197, 7, 7);
+    border: 0px;
+    border-radius: 30px;
+    color: white;
+    font-weight: bold;
+}
+.cansle-btn:hover{
+    background-color: rgba(255, 0, 0, 0.701)
+}
+.signout-btn{
+    background-color: rgb(197, 7, 7);
+    border: 0px;
+    border-radius: 30px;
+    color: white;
+    font-weight: bold;
+    float: left;
+}
+.signout-btn:hover{
+    background-color: rgba(255, 0, 0, 0.88);
+}
+.back{
+    float: right;
+}
+.back-btn {
+    background-color:  rgb(9, 170, 68);
+    border: 0px;
+    border-radius: 30px;
+    color: white;
+    font-weight: bold;
+    float: left;
+}
+.back-btn:hover{
+    background-color:rgb(7, 197, 77) ;
+}
+
+.admin-creative-break {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    background:   #854D27  ;
+    height: 4px;
+    width: 300px;
+    margin: auto;
+    direction:ltr !important;
+}
+
+.admin-diamond {
+    background: #854D27   ;
+    height: 9px;
+    width: 9px;
+    position: absolute;
+    transform: rotate(38deg) skewY(15deg);
+    top: -3px;
+}
+.delete{
+    background-color: rgb(197, 7, 7);
+    border: 0px;
+    border-radius: 30px;
+    color: white;
+}
+.delete:hover{
+    background-color: rgba(255, 0, 0, 0.88);
+}
+.cansel{
+    background-color: rgba(36, 15, 225, 0.87);
+    border: 0px;
+    border-radius: 30px;
+    color: white;
+}
+.cansel:hover{
+    background-color: rgba(36, 15, 225, 0.994);
+}
+.edit{
+    background-color: rgb(3, 105, 3);
+    border: 0px;
+    border-radius: 30px;
+    color: white;
+}
+.edit:hover{
+    background-color: rgb(3, 132, 3);
+}
+
+.search{
+    border: 0px;
+    border-radius: 10px;
+}
+
+.drink-title{
+    color:  #e7e393;
+    text-shadow: 4px;
+}
+.line{
+    text-decoration: underline;
+    cursor: pointer;
+}
