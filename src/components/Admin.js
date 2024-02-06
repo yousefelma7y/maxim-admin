@@ -67,7 +67,6 @@ const Admin = () => {
       timerId = setTimeout(async () => {
         await axios.get(url).then((res) => {
           setMenu(res.data.items)
-          console.log(res.data.items)
         });
         setLoading(false);
         setIsLoading(false);
