@@ -3,7 +3,7 @@
     /* background-color:  #F4C95D; */
     /* background-color:  #DD7230; */
     /* background-color:  #854D27; */
-    background-image: url('../../public/pcbg.jpg');
+    background-image: url('../../public/pcbg.webp');
     background-position: center;
     background-repeat: no-repeat;
     background-size:cover;
@@ -59,7 +59,7 @@
 
 @media only screen and (max-width: 1000px) {
     .signin{
-        background-image: url('../../public/mopilebg.jpg');
+        background-image: url('../../public/mopilebg.webp');
         background-position: center;
         background-repeat: no-repeat;
         background-size:cover;
